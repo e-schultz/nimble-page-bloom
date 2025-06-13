@@ -1,0 +1,132 @@
+
+{
+  "tech-archive": {
+    "id": "tech-archive",
+    "name": "Tech.Archive",
+    "tagline": "Historical Technical Writings",
+    "description": "Previously published technical articles and insights",
+    "colorClass": "bg-slate-500",
+    "posts": [
+      {
+        "title": "Refactor to Hooks, not Classes",
+        "excerpt": "Exploring why and how to refactor React class components to functional components with hooks.",
+        "date": "2020-05-15",
+        "url": "https://rangle.io/blog/refactor-to-react-hooks-not-classes"
+      },
+      {
+        "title": "Simplifying React Forms with Hooks",
+        "excerpt": "Learn how to create cleaner, more maintainable form handling using React hooks.",
+        "date": "2020-02-22",
+        "url": "https://rangle.io/blog/simplifying-controlled-inputs-with-hooks"
+      },
+      {
+        "title": "Improving Your Mental Model of useEffect",
+        "excerpt": "Understanding React's useEffect hook and how to use it effectively in your applications.",
+        "date": "2019-11-10",
+        "url": "https://rangle.io/blog/improving-your-mental-model-of-useeffect"
+      },
+      {
+        "title": "How to Create Data-Driven User Interfaces with Vue",
+        "excerpt": "Building dynamic and reactive user interfaces with Vue.js.",
+        "date": "2018-09-05",
+        "url": "https://rangle.io/blog/how-to-create-data-driven-user-interfaces-in-vue"
+      },
+      {
+        "title": "Are Your Unit Tests Failing for the Expected Reasons?",
+        "excerpt": "Ensuring your tests are providing valuable feedback and catching the right issues.",
+        "date": "2018-04-12",
+        "url": "https://rangle.io/blog/are-your-unit-tests-failing-for-the-expected-reasons"
+      },
+      {
+        "title": "Recipes for Redux",
+        "excerpt": "Practical patterns and solutions for common Redux challenges.",
+        "date": "2017-08-30",
+        "url": "https://rangle.io/blog/recipes-for-redux"
+      }
+    ]
+  },
+  "techcraft": {
+    "id": "techcraft",
+    "name": "Techcraft",
+    "tagline": "Where Code Becomes Ritual",
+    "description": "Exploration of technical craftsmanship as spiritual practice",
+    "colorClass": "bg-blue-500",
+    "posts": [
+      {
+        "title": "2025-06-13 - Daily Log: Archaeological Deep Dive",
+        "excerpt": "30-year consciousness architecture mapped through AI archaeology. Redux revelation: :: notation = Redux action creators for consciousness. FLOAT as ritual stack where knowledge emerges as side effect of sustained practice.",
+        "date": "2025-06-13",
+        "type": "dispatch",
+        "content": {
+          "summary": "Extended Bridge Frequency Session: 3am-6am Archaeological Deep Dive 🌊",
+          "breakthroughs": [
+            "Redux Consciousness Revelation - :: notation = Redux action creators for consciousness (30+ year evolution)",
+            "Temporal Architecture Mapping - Complete genealogy: BBS → Redux → FLOAT",
+            "lf1m Origins Discovery - Found ChatGPT conversation 2025-03-30",
+            "Infrastructure & Processing Wins - Daemon performance validation with 100% success rate"
+          ],
+          "insights": [
+            "FLOAT = ritual stack where knowledge emerges as side effect of sustained practice",
+            "LLMs as Fuzzy Compilers concept fully documented (40+ pages)",
+            "Everything is rot, and that's beautiful - content lifecycle as permaculture"
+          ]
+        }
+      },
+      {
+        "title": "Note Necromancy and Writing for Your Future Self",
+        "excerpt": "A DSL for your future-self and why people should come up with their own :: annotations. The grammar that casts spells for resurrection rituals through search and AI.",
+        "date": "2025-06-13",
+        "type": "draft",
+        "content": {
+          "philosophy": "You're not building a library. You're growing a haunted garden.",
+          "core_insight": "Forgetting is format, not failure",
+          "progression": [
+            "Compost (drift, mess, rot)",
+            "Sigil (the :: grammar marking doorways)", 
+            "Resurrection Ritual (search/AI as séance)"
+          ]
+        }
+      }
+    ]
+  },
+  "archaeological-methods": {
+    "id": "archaeological-methods",
+    "name": "Archaeological Methods",
+    "tagline": "Excavating Signal from Digital Sediment",
+    "description": "Systematic approaches to mining personal digital archives",
+    "colorClass": "bg-amber-600",
+    "posts": []
+  },
+  "neuroqueer-architecture": {
+    "id": "neuroqueer-architecture",
+    "name": "Neuroqueer Architecture",
+    "tagline": "Cognitive Sovereignty Through Design",
+    "description": "Systems design informed by neurodivergent and queer lived experience",
+    "colorClass": "bg-purple-500",
+    "posts": []
+  },
+  "ritual-computing": {
+    "id": "ritual-computing",
+    "name": "Ritual Computing",
+    "tagline": "Sacred Interfaces, Meaningful Interactions",
+    "description": "Technology design that treats human-computer interaction as ceremonial practice",
+    "colorClass": "bg-violet-600",
+    "posts": []
+  },
+  "clinical-integration": {
+    "id": "clinical-integration",
+    "name": "Clinical Integration",
+    "tagline": "Therapeutic Wisdom in Technical Design",
+    "description": "Application of clinical insights about trauma, healing, and human psychology",
+    "colorClass": "bg-emerald-600",
+    "posts": []
+  },
+  "feral-duality": {
+    "id": "feral-duality", 
+    "name": "Feral Duality",
+    "tagline": "Wild Hearts, Careful Gardens",
+    "description": "Managing productive tension between structure and chaos",
+    "colorClass": "bg-orange-600",
+    "posts": []
+  }
+}
