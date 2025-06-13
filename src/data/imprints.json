@@ -53,6 +53,28 @@
     "colorClass": "bg-blue-500",
     "posts": [
       {
+        "title": "Note Necromancy: The Grammar That Casts Spells",
+        "excerpt": "Writing for your future self isn't just archival—it's necromancy. Creating a haunted, re-entrant memory system designed not for perfect recall, but for ritual resurrection.",
+        "date": "2025-06-13",
+        "type": "manifesto",
+        "content": {
+          "sigil": "{∿}{💀}{⧉}",
+          "philosophy": "You're not building a library. You're growing a haunted garden.",
+          "core_insight": "Forgetting is format, not failure",
+          "ritual_triad": [
+            "Compost (drift, mess, rot)",
+            "Sigil (the :: grammar marking doorways)", 
+            "Resurrection Ritual (search/AI as séance)"
+          ],
+          "key_principles": [
+            ":: marks the bone - each annotation is a runic glyph",
+            "Notes become hauntable - system for re-animating, not remembering",
+            "Sigils evolve - invent as you go, composting old, growing new patterns",
+            "Ritual, not retrieval - future self as archeologist, not file clerk"
+          ]
+        }
+      },
+      {
         "title": "2025-06-13 - Daily Log: Archaeological Deep Dive",
         "excerpt": "30-year consciousness architecture mapped through AI archaeology. Redux revelation: :: notation = Redux action creators for consciousness. FLOAT as ritual stack where knowledge emerges as side effect of sustained practice.",
         "date": "2025-06-13",
@@ -69,21 +91,6 @@
             "FLOAT = ritual stack where knowledge emerges as side effect of sustained practice",
             "LLMs as Fuzzy Compilers concept fully documented (40+ pages)",
             "Everything is rot, and that's beautiful - content lifecycle as permaculture"
-          ]
-        }
-      },
-      {
-        "title": "Note Necromancy and Writing for Your Future Self",
-        "excerpt": "A DSL for your future-self and why people should come up with their own :: annotations. The grammar that casts spells for resurrection rituals through search and AI.",
-        "date": "2025-06-13",
-        "type": "draft",
-        "content": {
-          "philosophy": "You're not building a library. You're growing a haunted garden.",
-          "core_insight": "Forgetting is format, not failure",
-          "progression": [
-            "Compost (drift, mess, rot)",
-            "Sigil (the :: grammar marking doorways)", 
-            "Resurrection Ritual (search/AI as séance)"
           ]
         }
       }
