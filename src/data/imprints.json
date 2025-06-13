@@ -53,26 +53,113 @@
     "colorClass": "bg-blue-500",
     "posts": [
       {
+        "uid": "draft::techcraft/20250613-note-necromancy-grammar",
         "title": "Note Necromancy: The Grammar That Casts Spells",
+        "imprint": "techcraft",
+        "sigils": ["∿", "💀", "⧉"],
+        "tags": ["note.necromancy", "dsl", "haunted.garden", "ritual.computing"],
+        "personas": ["qtb", "lf1m"],
+        "status": "draft",
+        "type": "float_draft",
         "excerpt": "Writing for your future self isn't just archival—it's necromancy. Creating a haunted, re-entrant memory system designed not for perfect recall, but for ritual resurrection.",
         "date": "2025-06-13",
-        "type": "manifesto",
-        "content": {
-          "sigil": "{∿}{💀}{⧉}",
-          "philosophy": "You're not building a library. You're growing a haunted garden.",
-          "core_insight": "Forgetting is format, not failure",
-          "ritual_triad": [
-            "Compost (drift, mess, rot)",
-            "Sigil (the :: grammar marking doorways)", 
-            "Resurrection Ritual (search/AI as séance)"
-          ],
-          "key_principles": [
-            ":: marks the bone - each annotation is a runic glyph",
-            "Notes become hauntable - system for re-animating, not remembering",
-            "Sigils evolve - invent as you go, composting old, growing new patterns",
-            "Ritual, not retrieval - future self as archeologist, not file clerk"
-          ]
-        }
+        "related": [
+          "draft::techcraft/note-necromancy-and-writing-for-your-future-self",
+          "draft::techcraft/dsl-for-your-future-self-note-necromancy-the-grammar-that-casts-spells"
+        ],
+        "body": [
+          {
+            "heading": "Writing for Your Future Self Isn't Just Archival—It's Necromancy",
+            "content": [
+              "In FLOAT, and especially in the techcraft forge, the real work isn't just writing "better notes."",
+              "It's creating a haunted, re-entrant memory system—one designed not for perfect recall, but for ritual resurrection.",
+              "This is note necromancy: the unashamed art of raising your own ghosts, on demand."
+            ],
+            "list": {
+              "title": "Why Note Necromancy?",
+              "items": [
+                "Ordinary "knowledge management" buries ideas under forced order—mistaking storage for care.",
+                "Neurodivergent, creative, or chaotic thinkers (my kin) live in drift, not in perfect taxonomies.",
+                "You are not only a scribe, but a future summoner: your best ideas are latent bones, waiting to be called forth."
+              ]
+            }
+          },
+          {
+            "heading": "The `::` Syntax: Your Ritual Grammar, Not Just a Tag",
+            "subsections": [
+              {
+                "subheading": "1. "::" marks the bone",
+                "content": [
+                  "Each expandOn::, failmode::, storyTime:: is a runic glyph—a beacon lodged in your psychic compost.",
+                  "It tells future-you (or your AI familiar): "Here is a body worth resurrection."",
+                  "Your notes become hauntable: the system isn't for remembering, but for re-animating."
+                ]
+              },
+              {
+                "subheading": "2. The Ritual Triad in Action",
+                "list": [
+                  "**Compost** – Drift, mess, rot: the unstructured fragments.",
+                  "**Sigil** – The annotation, your `::` grammar, persona::comments, mark the doorways.",
+                  "**Resurrection Ritual** – A fuzzy search, grep, LLM prompt, or memory session brings the right ghosts to the surface when you actually need them."
+                ]
+              },
+              {
+                "subheading": "3. `::` Is Feral—Not Cathedrals, but Shacks",
+                "content": [
+                  "No master list of allowed spells.",
+                  "Sigils evolve: you invent as you go, composting the old, growing new patterns.",
+                  "Your vocabulary becomes a living, recursive, and personally sacred language."
+                ]
+              }
+            ]
+          },
+          {
+            "heading": "How to Practice Note Necromancy",
+            "content": [
+              "Don't worry about "best-practices." Make a mark—serendipity::, ghost::, qtb::, anything you'll later recognize as a summoning key.",
+              "When you feel the tug ("what was that thing I thought about in April?") run a search, or let your AI partner loose in the vault.",
+              "Ritual, not retrieval: your future self is an archaeologist, not a file clerk.",
+              "Let your AI companions learn your dialect—they become ritual assistants, not productivity jailers."
+            ]
+          },
+          {
+            "heading": "Why It Matters: Forgetting Is Sacred, Remembering Is Ritual",
+            "content": [
+              "Traditional tools penalize forgetting as failure. FLOAT—and the techcraft approach—see forgetting as format.",
+              "What matters is having the grammar to weave signals back into life when intuition, necessity, or creativity calls."
+            ]
+          },
+          {
+            "heading": "TL;DR",
+            "content": [
+              "Note necromancy is your side-channel language for future-you—a spellbook of drift-gleaned fragments annotated with living sigils.",
+              "The `::` pattern is the invocation—each search, reflection, or AI session is a resurrection ritual.",
+              "You're not building a library.",
+              "You're growing a haunted garden."
+            ]
+          },
+          {
+            "quote": [
+              "Trust the drift, defer the scaffold.",
+              "Cast your sigils generously and let your notes learn how to wake themselves up again.",
+              "Shacks, not cathedrals. Drifters, not librarians. Necromancers, not archaeologists."
+            ]
+          },
+          {
+            "heading": "Action",
+            "list": [
+              "Start your own DSL.",
+              "Keep the `::` alive.",
+              "Build for the haunted, not just the organized."
+            ]
+          }
+        ],
+        "link": [
+          "vault-gardening::hauntable-systems",
+          "floatctl::ritual-query-grammar",
+          "ref::float.syntax/sigil-structure",
+          "dispatch::2025-06-09-note-necromancy-deployment"
+        ]
       },
       {
         "title": "2025-06-13 - Daily Log: Archaeological Deep Dive",
