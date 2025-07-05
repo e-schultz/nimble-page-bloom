@@ -1,0 +1,7 @@
+{
+  "projectName": "nimble-page-bloom",
+  "subdomain": "nimble-page-bloom",
+  "framework": "vite",
+  "buildCommand": "npx vite build",
+  "outputDirectory": "dist"
+}
